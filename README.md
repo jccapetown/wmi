@@ -9,6 +9,11 @@ To install the libraries run the install.sh file
 #Tools in this toolset
 
 LRRWP - Locate Remote Running Windows Processes
+
 RWFX  - Remote Windows file exists
+
 RWHI	-	Remote Windows Hardware Info (Memory, Bios, Motherboard, CPU)
+
 RWHS	-	Remote Windows Shares
+
+
