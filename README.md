@@ -9,12 +9,15 @@ The WMI Toolkit, allows administrators to get all this information from their Li
     This app runs to find processes that are running on windows clients. 
 
 2.	RWFX - Remote Windows file exists
+
     This tools can file a specific file on a windows client / CIDR range to determine if a Virus is present
 
 3.	RWHI - Remote Windows Hardware Info (Memory, Bios, Motherboard, CPU)
+
     This tool can display the hardware info for all windows clients/ with extensive information.
 
 4.	RWHS - Remote Windows Shares
+
     Use this tool to locate Remote windows shares and their respective properties. 
     This help in detecting unwanted shares on a network to Help fight against data loss or theft.
 
