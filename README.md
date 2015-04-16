@@ -4,12 +4,11 @@ The most common way is to get internal/desktop support guys to go and investigat
 
 The WMI Toolkit, allows administrators to get all this information from their Linux Machines. The can see which processes are running within a network as the tools within the framework allow for whole CIDR ranges to be checked. Because this is WMIC through RPC and SMB you will need valid logon credentials for each computer OR a Domain Administrator account for whole domains.
 
-#The Toolkit currently provides 4 tools (to be expanded):
+#The Toolkit currently provides these tools:
 1.	LRRWP - Locate Remote Running Windows Processes
     This app runs to find processes that are running on windows clients. 
-
-2.	RWFX - Remote Windows file exists
-This tools can file a specific file on a windows client / CIDR range to determine if a Virus is present
+2.	RWFX - Remote Windows file exists \n
+    This tools can file a specific file on a windows client / CIDR range to determine if a Virus is present
 
 3.	RWHI - Remote Windows Hardware Info (Memory, Bios, Motherboard, CPU)
 
