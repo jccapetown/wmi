@@ -20,8 +20,7 @@ The WMI Toolkit, allows administrators to get all this information from their Li
 
 2.RWFX - Remote Windows file exists
 
-    This tools can file a specific file on a windows client / CIDR range to determine 
-    if a Virus is present
+    This tools can find a specific file on a windows client / CIDR range given the expectedx location of the file to      determine if it is present (like a Virus)
 
 
 
