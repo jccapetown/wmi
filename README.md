@@ -1,6 +1,7 @@
 #WMI Toolset
 
-As part of system administration there is always a need that arises when Viruses are deployed/found on a network. Most commonly these needs are around finding specific files on windows clients as well as which application are currently running in the task list or if a file exists on a windows client. 
+As part of system administration there is always a need that arises when Viruses are deployed/found on a network. 
+Most commonly these needs are around finding specific files on windows clients as well as which application are currently running in the task list or if a file exists on a windows client. 
 The most common way is to get internal/desktop support guys to go and investigate the windows clients which is very timeous OR to buy some expensive software that can be executed remotely (after client installs) and then reports can be pulled from them.
 
 
@@ -19,7 +20,8 @@ The WMI Toolkit, allows administrators to get all this information from their Li
 
 2.RWFX - Remote Windows file exists
 
-    This tools can file a specific file on a windows client / CIDR range to determine if a Virus is present
+    This tools can file a specific file on a windows client / CIDR range to determine 
+    if a Virus is present
 
 
 
